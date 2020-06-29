@@ -1,4 +1,4 @@
-learclass TicTacToe
+class TicTacToe
   
   attr_reader :board
   
@@ -113,6 +113,8 @@ end
    else 
      puts "Cat's Game!"
    end
+ end
+ 
  end
 
 
